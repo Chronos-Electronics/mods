@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:NEUVEA,x:-1433,z:-419,y:104,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:burgus,x:-1547,z:-264,y:102,enabled:true,red:0.24554962,green:0.39885134,blue:0.14621365,suffix:,world:,dimensions:overworld#
+name:home base,x:-1556,z:-353,y:101,enabled:true,red:0.43731523,green:0.27254224,blue:0.5171444,suffix:,world:,dimensions:overworld#
+name:spawn,x:96,z:-161,y:104,enabled:true,red:0.4735822,green:0.44633085,blue:0.8893593,suffix:,world:,dimensions:overworld#
+name:BOTANAI,x:144,z:-368,y:92,enabled:true,red:0.4941162,green:0.86646384,blue:0.24465817,suffix:,world:,dimensions:overworld#
+name:Vea,x:52,z:347,y:74,enabled:true,red:0.83937186,green:0.5677638,blue:0.31317943,suffix:,world:,dimensions:overworld#
